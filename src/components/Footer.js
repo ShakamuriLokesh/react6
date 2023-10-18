@@ -17,13 +17,13 @@ function Footer() {
           
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Venkat</h3>
+          <h3>Copyright © {year} Lokesh</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Konathalavenkat"
+                href="https://github.com/ShakamuriLokesh"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://leetcode.com/Venkat_siva/"
+                href="https://leetcode.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="www.linkedin.com/in/venkat-konathala-953a7b262"
+                href="https://www.linkedin.com/in/s-lokesh-b82776296/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.hackerrank.com/k_venkatsiva"
+                href="https://www.hackerrank.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
