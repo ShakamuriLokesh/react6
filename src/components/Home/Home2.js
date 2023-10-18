@@ -41,7 +41,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Konathalavenkat"
+                  href="https://github.com/ShakamuriLokesh"
                   target="_blank"
                   className="icon-colour  home-social-icons"
                 >
@@ -50,7 +50,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://leetcode.com/Venkat_siva/"
+                  href="https://leetcode.com"
                   target="_blank"
                   className="icon-colour  home-social-icons"
                 >
@@ -59,7 +59,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/venkat-konathala-953a7b262/"
+                  href="https://www.linkedin.com/in/s-lokesh-b82776296/"
                   target="_blank"
                   className="icon-colour  home-social-icons"
                 >
@@ -68,7 +68,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.hackerrank.com/k_venkatsiva"
+                  href="https://www.hackerrank.com"
                   target="_blank"
                   className="icon-colour home-social-icons"
                 >
